@@ -4,7 +4,7 @@
 
 <h3 align="center">
   Welcome to Zein waleed profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b76118ooc2mph0j965sbyt87q0tbkip9vj6l1beshrpy6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
