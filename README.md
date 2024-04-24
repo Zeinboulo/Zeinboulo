@@ -8,7 +8,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CSstudent+SofwareTester;WantTO+Better+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CSstudent+SofwareTester;Want+TO+BE+Better)](https://git.io/typing-svg)
 
 - 🏢 I'am a cs student working part time for Ezzmedical as a software tester.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
